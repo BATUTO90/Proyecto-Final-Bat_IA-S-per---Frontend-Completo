@@ -1,33 +1,37 @@
 batia-super-frontend/
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── components/
-│   │   ├── AspectRatioContainer.tsx
-│   │   ├── DownloadButton.tsx
-│   │   ├── HyperRealismGuide.tsx
-│   │   ├── ModelSelector.tsx
-│   │   └── LoadingSpinner.tsx
-│   ├── pages/
-│   │   ├── ChatPage.tsx
-│   │   ├── CodePage.tsx
-│   │   ├── ImagePage.tsx
-│   │   ├── PromptCreatorPage.tsx
-│   │   ├── ImageToPromptPage.tsx
-│   │   └── PromptOptimizerPage.tsx
-│   ├── services/
-│   │   └── enhancedApi.ts
-│   ├── styles/
-│   │   ├── theme.ts
-│   │   └── globals.css
-│   ├── types/
-│   │   └── index.ts
-│   ├── utils/
-│   │   └── promptUtils.ts
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── vite-env.d.ts
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-└── index.html
+├── 📁 public/
+│   └── 🖼️ vite.svg
+├── 📁 src/
+│   ├── 📁 components/
+│   │   ├── 🧩 AspectRatioContainer.tsx
+│   │   ├── 📥 DownloadButton.tsx
+│   │   ├── 🎨 HyperRealismGuide.tsx
+│   │   ├── 🧭 Navbar.tsx
+│   │   ├── ⏳ LoadingSpinner.tsx
+│   │   └── 🔧 ModelSelector.tsx
+│   ├── 📁 pages/
+│   │   ├── 💬 ChatPage.tsx
+│   │   ├── 💻 CodePage.tsx
+│   │   ├── 🖼️ ImagePage.tsx
+│   │   ├── ✨ PromptCreatorPage.tsx
+│   │   ├── 🔄 ImageToPromptPage.tsx
+│   │   └── ⚡ PromptOptimizerPage.tsx
+│   ├── 📁 services/
+│   │   └── 🔌 enhancedApi.ts
+│   ├── 📁 styles/
+│   │   ├── 🎨 globals.css
+│   │   └── 🎯 theme.ts
+│   ├── 📁 types/
+│   │   └── 📝 index.ts
+│   ├── 📁 utils/
+│   │   └── 🛠️ promptUtils.ts
+│   ├── 🚀 main.tsx
+│   ├── 🏗️ App.tsx
+│   └── 📄 vite-env.d.ts
+├── 📦 package.json
+├── ⚙️ tsconfig.json
+├── 🛠️ vite.config.ts
+├── 🌐 index.html
+├── 🔐 .env
+├── 🙈 .gitignore
+└── 📖 README.md
