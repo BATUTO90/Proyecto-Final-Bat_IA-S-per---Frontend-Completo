@@ -1,0 +1,33 @@
+batia-super-frontend/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── components/
+│   │   ├── AspectRatioContainer.tsx
+│   │   ├── DownloadButton.tsx
+│   │   ├── HyperRealismGuide.tsx
+│   │   ├── ModelSelector.tsx
+│   │   └── LoadingSpinner.tsx
+│   ├── pages/
+│   │   ├── ChatPage.tsx
+│   │   ├── CodePage.tsx
+│   │   ├── ImagePage.tsx
+│   │   ├── PromptCreatorPage.tsx
+│   │   ├── ImageToPromptPage.tsx
+│   │   └── PromptOptimizerPage.tsx
+│   ├── services/
+│   │   └── enhancedApi.ts
+│   ├── styles/
+│   │   ├── theme.ts
+│   │   └── globals.css
+│   ├── types/
+│   │   └── index.ts
+│   ├── utils/
+│   │   └── promptUtils.ts
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── vite-env.d.ts
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+└── index.html
