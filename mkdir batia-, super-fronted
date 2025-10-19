@@ -1,0 +1,7 @@
+# En la carpeta principal (batia-super-frontend/)
+touch package.json
+touch tsconfig.json
+touch vite.config.ts
+touch index.html
+touch .env
+touch .gitignore
